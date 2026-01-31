@@ -42,15 +42,15 @@ This project performs an in-depth analysis of ride-sharing booking patterns, can
 
 ### Top Insights
 
-🚗 **Vehicle Performance:** Prime SUV dominates with highest average booking value (₹512) and highest driver ratings (4.45/5.0)
+**Vehicle Performance:** Prime SUV dominates with highest average booking value (₹512) and highest driver ratings (4.45/5.0)
 
-💳 **Payment Methods:** Wallet is most popular (35% adoption) with Card having highest transaction value (₹445 avg)
+**Payment Methods:** Wallet is most popular (35% adoption) with Card having highest transaction value (₹445 avg)
 
-⏰ **Peak Hours:** 18:00 (evening rush) with 2.1x average demand; Off-peak at 04:00
+**Peak Hours:** 18:00 (evening rush) with 2.1x average demand; Off-peak at 04:00
 
-📍 **Geographic Hotspots:** Area-18 is most popular pickup location (8.2% of all bookings); Area-1→Area-18 is top route (1,247 rides)
+**Geographic Hotspots:** Area-18 is most popular pickup location (8.2% of all bookings); Area-1→Area-18 is top route (1,247 rides)
 
-❌ **Cancellations:** 33.0% cancellation rate represents ₹16.9M in lost revenue; Primary drivers: Driver cancellations (19.2%) and incomplete rides (6.2%)
+**Cancellations:** 33.0% cancellation rate represents ₹16.9M in lost revenue; Primary drivers: Driver cancellations (19.2%) and incomplete rides (6.2%)
 
 ## 📁 Project Structure
 
